@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a56e3f1-5992-41ba-8752-dc1e2ec67fb1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.q" />
+  <component name="ProjectId" id="2HjUTqOBg73zPjo6KZ3bl45SmOo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/опен/OSPanel/domains/catalog.ru",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\опен\OSPanel\domains\catalog.ru\photo" />
+      <recent name="W:\domains\catalog.ru\photo" />
+      <recent name="D:\опен\OSPanel\domains\new\photo" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a56e3f1-5992-41ba-8752-dc1e2ec67fb1" name="Changes" comment="" />
+      <created>1668798000708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668798000708</updated>
+      <workItem from="1668798004566" duration="4239000" />
+      <workItem from="1668939594565" duration="1289000" />
+      <workItem from="1668945673388" duration="62000" />
+      <workItem from="1669042916575" duration="10394000" />
+      <workItem from="1669106565297" duration="1722000" />
+      <workItem from="1669109798328" duration="17960000" />
+      <workItem from="1669137300252" duration="1182000" />
+      <workItem from="1669138578576" duration="419000" />
+      <workItem from="1669139521433" duration="425000" />
+      <workItem from="1669179820141" duration="13550000" />
+      <workItem from="1669217929207" duration="4962000" />
+      <workItem from="1669234241954" duration="1434000" />
+      <workItem from="1669271728076" duration="379000" />
+      <workItem from="1669753186826" duration="10524000" />
+      <workItem from="1670357150780" duration="4889000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
